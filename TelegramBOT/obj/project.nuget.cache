@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIq716+llQM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Katana\\Desktop\\Library\\TelegramBOT\\TelegramBOT\\TelegramBOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katana\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Katana\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
